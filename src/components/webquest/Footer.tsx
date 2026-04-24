@@ -35,7 +35,7 @@ export const Footer = () => {
 
           <div className="mt-14 inline-flex items-center gap-3 font-mono-tech text-sm uppercase tracking-[0.25em] text-primary">
             <span className="h-px w-8 bg-primary" />
-            ⚡ Bom trabalho, engenheiros!
+            ⚡ Bom trabalho, Eletrotécnicos!
             <span className="h-px w-8 bg-primary" />
           </div>
         </div>
