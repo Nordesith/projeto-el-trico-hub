@@ -42,7 +42,7 @@ export const Tarefa = () => {
           number="02"
           eyebrow="A Tarefa"
           title="O Dossiê Técnico de Projeto"
-          description="Cinco entregáveis compõem o pacote final. Cada peça é avaliada individualmente e em conjunto — a coerência entre os documentos é parte da nota."
+          description="A partir da planta arquitetônica presente no repositório webquest, desenvolva cinco entregáveis que compõem o pacote final. Cada peça é avaliada individualmente e em conjunto — a coerência entre os documentos é parte da nota."
         />
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
