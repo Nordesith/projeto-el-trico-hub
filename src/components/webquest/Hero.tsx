@@ -53,8 +53,8 @@ export const Hero = () => {
               </span>
             </span>
             <br />
-            Projeto de{" "}
-            <span className="text-primary">Instalações Elétricas</span> Prediais
+            Projeto {" "}
+            <span className="text-primary">Elétricos</span> Prediais
           </h1>
 
           <p className="reveal mt-8 text-lg md:text-xl text-muted-foreground max-w-2xl leading-relaxed">
