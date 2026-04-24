@@ -53,7 +53,7 @@ export const Hero = () => {
               </span>
             </span>
             <br />
-            Projeto {" "}
+            Projetos {" "}
             <span className="text-primary">Elétricos</span> Prediais
           </h1>
 
